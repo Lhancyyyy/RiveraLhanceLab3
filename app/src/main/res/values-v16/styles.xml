@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="NameOfPlace">
+        <item name="android:background">#718792</item>
+        <item name="android:text">Ayala Triangle</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">45sp</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:layout_width">277dp</item>
+        <item name="android:layout_height">57dp</item>
+        <item name="android:fontFamily">@font/MrDeHav</item>
+        <item name="android:gravity">center</item>
+        <item name="android:padding">5dp</item>
+    </style>
+</resources>

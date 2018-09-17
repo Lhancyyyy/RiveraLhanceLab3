@@ -1,0 +1,95 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <color name="colorPrimary">#455a64</color>
+        <color name="colorPrimaryDark">#1c313a</>
+        <color name="colorPrimaryLight">#718792</color>
+        <color name="colorTextColor">#ffffff</color>
+    </style>
+
+    <style name="Header">
+        <item name="android:background">#455a64</item>
+        <item name="android:text">Styles and Material Design</item>
+        <item name="android:textSize">34sp</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:layout_width">391dp</item>
+        <item name="android:layout_height">43dp</item>
+        <item name="android:gravity">center</item>
+
+    </style>
+
+    <style name="image">
+        <item name="android:layout_width">385dp</item>
+        <item name="android:layout_height">216dp</item>
+        <item name="android:scaleType">fitXY</item>
+    </style>
+
+    <style name="NameOfPlace">
+        <item name="android:background">#718792</item>
+        <item name="android:text">Ayala Triangle</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">45sp</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:layout_width">277dp</item>
+        <item name="android:layout_height">57dp</item>
+        <item name="android:fontFamily">@font/MrDeHav</item>
+        <item name="android:gravity">center</item>
+        <item name="android:padding">5dp</item>
+    </style>
+
+    <style name="Location1">
+        <item name="android:text">Location:</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:layout_width">327dp</item>
+        <item name="android:layout_height">44dp</item>
+    </style>
+
+    <style name="Location2">
+        <item name="android:text"> Paseo De Roxas St Cor Makati Ave Cor, Ayala Ave, Makati, 1209 Metro Manila</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:layout_width">327dp</item>
+        <item name="android:layout_height">44dp</item>
+    </style>
+
+    <style name="Distance1">
+        <item name="android:text">Distance from UST:</item>
+        <item name="android:textSize">17sp</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:layout_width">327dp</item>
+        <item name="android:layout_height">44dp</item>
+    </style>
+
+    <style name="Distance2">
+        <item name="android:text">8.5 Kilometers</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:layout_width">327dp</item>
+        <item name="android:layout_height">44dp</item>
+    </style>
+
+    <style name="ButtonsNext">
+        <item name="android:text">Next</item>
+        <item name ="android:layout_width">70dp</item>
+        <item name ="android:layout_height">50dp</item>
+        <item name ="android:scaleType">fitCenter</item>
+        <item name="android:background">#718792</item>
+        <item name="android:padding">5dp</item>
+    </style>
+
+    <style name="ButtonsBack">
+        <item name="android:text">Back</item>
+        <item name ="android:layout_width">70dp</item>
+        <item name ="android:layout_height">50dp</item>
+        <item name ="android:scaleType">fitCenter</item>
+        <item name="android:background">#455a64</item>
+        <item name="android:padding">5dp</item>
+
+    </style>
+
+
+
+</resources>
